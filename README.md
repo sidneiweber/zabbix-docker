@@ -1,3 +1,3 @@
 # zabbix-docker
 
-Here are zabbix related files for Docker.
+Docker compose para iniciar servidor Zabbix.
